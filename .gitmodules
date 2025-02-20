@@ -1,0 +1,3 @@
+[submodule "clipsrules"]
+	path = clipsrules
+	url = https://github.com/Sciumo/clipsrules
